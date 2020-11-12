@@ -10,3 +10,8 @@ Back-end :
 
 Front-End : 
 - React.js
+- Redux
+- Material-ui
+
+
+Démonstration vidéo ici : shorturl.at/eovzK
